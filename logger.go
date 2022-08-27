@@ -1,4 +1,4 @@
-package gcp_function_logger
+package logger
 
 import (
 	"encoding/json"
